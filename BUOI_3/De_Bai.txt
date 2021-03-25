@@ -1,0 +1,12 @@
+Bài 9:
+    Nhập số n. Kiểm tra số n vừa nhập, 
+        - nếu số các chữ số của n toàn là số chăn thì in ra "Yes"
+        - nếu số các chữ số của n toàn là số lẻ thì in ra "No"
+        - nếu số chứa cả số chẵn và lẻ thì in ra "Bye" :v 
+    
+    n = 84242 -> Yes
+    n = 13539 -> No 
+    n = 16769 -> Bye
+    checkSoChan = checkSoLe = 0 là mặc định đúng
+    checkSoChan = 1; khi mà số đó có một số lẻ -> trường hợp số chẵn bị loại
+    checkSoLe = 1; khi mà số đó có một số chẵn -> trường hợp số lẻ bị loại
