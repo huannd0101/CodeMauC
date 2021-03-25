@@ -1,0 +1,29 @@
+Bài 1: Tính tổng tất cả các “ước số chẵn” của số nguyên dương n.
+Bài 2: Đếm số lượng “ước số lẻ” của số nguyên dương n.
+Bài 3: Cho số nguyên dương n. Tính tổng các ước số nhỏ hơn chính nó.
+Bài 4: Cho số nguyên dương n. Kiểm tra xem n có phải là số hoàn thiện hay không(số hoàn hảo)
+	Tổng các ước bằng 2 lần chính nó -> số hoàn thiện/Hoàn hảo
+Bài 5: CanBac2(2+CanBac2(2+….+CanBac2(2 + CanBac2(2)))) có n dấu căn
+Bài 6: Tính S(n) = 1 / (1 + 1 / ( 1 + 1 / (…. 1 + 1 / 1 + 1))) có n dấu phân số
+Bài 7: Hãy tính tích các chữ số của số nguyên dương n.
+	Input: 1523 -> output: 15
+Bài 8: Hãy tính tích các chữ số lẻ của số nguyên dương n(100 < n < 10^9)
+	Input: 1521  -> output: 7 (vì 1 + 5 + 1)
+Bài 9: Hãy tìm số đảo ngược của số nguyên dương n.
+	Input: 526   -> output: 625
+Bài 10: Tìm chữ số lớn nhất của số nguyên dương n.
+	Input: 1952  -> output: 9
+Bài 11: Hãy kiểm tra số nguyên dương n có toàn chữ số lẻ hay không
+	Input: 1751  -> output: YES
+	Input: 1478  -> output: NO
+Bài 12: Hãy kiểm tra các chữ số của số nguyên dương n có tăng dần từ trái sang phải hay không.
+	Input: 1349  -> YES
+	Input: 5184  -> NO
+Kiến thức mới: Toán tử 3 ngôi
+Ví dụ: 	if(n % 2 == 0) 
+		a = 1;
+	else 
+		a = 0;
+	
+Viết tắt: a = (n % 2 == 0) ? 1 : 0;
+	  a = (điều kiện) ? đúng : sai;

@@ -1,0 +1,26 @@
+type arr[row_size][column_size]
+
+BT2. Viết hàm nhập, xuất 1 ma trận kích thước m x n
+
+BT3. Nhập vào một ma trận n x m, in ra ma trận vừa nhập dưới dạng bảng. 
+Hiển thị và tính tổng các phần tử trên hàng chẵn của ma trận. 
+Tìm giá trị lớn nhất trên cột 1 của ma trận
+
+BT4. Viết hàm tìm giá trị lớn nhất, nhỏ nhất trong ma trận
+
+BT5. Tính tổng hai ma trận có cùng kích thước.
+
+BT6. Nhập vào một ma trận n x m, in ra ma trận vừa nhập dưới dạng bảng. 
+Sắp xếp hàng 2 theo chiều giá trị các phần tử giảm dần. 
+Đưa ra màn hình tổng các phần tử trong ma trận. 
+Tìm giá trị lớn nhất trong mảng. Tìm giá trị nhỏ nhất chia hết cho 3 có trong mảng.
+
+BT7. Viết hàm tính tổng các số chẵn trong ma trận
+
+BT8. Viết hàm liệt kê các số nguyên tố trong ma trận, đếm các số nguyên tố có trong ma trận
+
+BT9. Viết hàm xóa một dòng của ma trận. Viết hàm xóa một cột của ma trận
+
+BT10. Viết hàm đổi chỗ 2 hàng của 1 ma trận. Viết hàm đổi chỗ 2 cột của ma trận.
+
+BT12. Viết hàm tìm giá trị lớn nhất/ nhỏ nhất trên đường chéo chính của ma trận.

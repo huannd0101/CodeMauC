@@ -1,0 +1,44 @@
+Bài 1: Nhập vào tháng (1 < month <= 12) và year. In ra số ngày có trong tháng đó
+Gợi ý: 
+- Có 7 tháng có 31 ngày là: Tháng 1, tháng 3, tháng 5, tháng 7, tháng 8, tháng 10, tháng 12.
+- Có 4 tháng có 30 ngày là: Tháng 4, tháng 6, tháng 9, tháng 11.
+- Riêng tháng 2 có thể có 28 hoặc 29 ngày tùy theo năm
+
+Bài 2: Giải biện luận phương trình bậc nhất 1 ẩn. ax + b = 0;
+Bài 3: Giải và biện luận phương trình. ax^2 + bx + c = 0;
+Bài 4: Viết chương trình tính và hiển thị ra màn hình tiền điện phải trả của một hộ gia đình
+trong một tháng. Với số kwh điện tiêu thụ trong tháng là n được nhập vào từ bàn phím và giá
+1kwh được tính như sau: 100 kwh đầu tiên: 750đ/1kwh; từ kwh thứ 101 đến kwh thứ 200: 1250đ/1kwh; 
+từ kwh thứ 201 đến kwh thứ 300: 1750đ/1kwh; từ kwh thứ 301 trở đi: 3000đ/1kwh. 
+
+Bài 5: Nhập vào số điện tiêu thụ của hộ gia đình (kwh). In ra màn hình giá tiền phải trả của hộ gia đình đó
+- n < 100 kwh: 800 VNĐ/1kwh
+- 100 <= n < 200 kwh: 1100 VNĐ/1kwh
+- 200 <= n < 300 kwh: 1500 VNĐ/1kwh
+- 300 <= n < 400 kwh: 2300 VNĐ/1kwh
+- n >= 400: 3000 VND/1kwh
+
+Bài 6: Viết chương trình tính giá trị biểu thức:
+F(x) = (x^2 + e^|x| + sin2(x))/ căn bậc 5(x^2 + 1).
+
+Bài 7: Viết chương trình nhập vào số tiền phải trả của khách hàng. In ra số tiền khuyến mại
+với quy định: nếu số tiền phải trả thuộc [200, 300) thì khuyến mại 20%. Nếu số tiền phải trả
+từ 300 trở lên thì khuyến mại 30%. Còn lại thì không khuyến mại.
+
+Bài 8:Viết chương trình nhập vào một số thực x và số nguyên n, sau đó tính giá trị biểu
+thức:
+S = 2020x + (x^2)/3 + (x^3)/(3^2) + (x^4)/(3^3) + ....+ (x^n)/(3^n-1)   nếu n chẵn
+S = 0                                                                   nếu n lẻ
+
+Bài 9: Viết hàm tính: 
+F1 = 1+2+3+4+...+n;
+F2 = 1 + 2^2 + 3^3 + ... + n^n;
+F3 = 1/3 + 1/5 + ... + 1/(2n+1).
+Viết chương trình chính nhập vào một biến nguyên n. Tính và in ra: T = F1 + F2 + F3.
+
+Bài 10: Nhập vào thu nhập của bạn. Nếu: 
+- n < 3.000.000 thì thuế của bạn là 5%
+- 3.000.000 <= n < 6.000.000 thì thuế của bạn là 10%
+- 6.000.000 <= n < 10.000.000 thì thuế của bạn là 15%
+- n >= 10.000.000 thì thuế của bạn là 25%
+Tính và in ra màn hình thuế bạn phải trả và số tiền bạn được lĩnh sau khi đã trừ thuế

@@ -1,0 +1,30 @@
+Câu 1: Viết một chương trình C++ để nhập lương nhân viên,
+tính thuế thu nhập và số tiền lương thực sự mà nhân viên đó nhận được.
+Với các thông số giả sử như sau 
+
+- 30% thuế thu nhập nếu lương là 15 triệu.
+- 20% thuế thu nhập nếu lương từ 7 đến 15 triệu.
+- 10% thuế thu nhập nếu lương dưới 7 triệu.
+
+Cầu 2: Xét điểm chữ cho sinh viên. Nhập điểm từ bàn phím và in điểm chữ kèm theo
+	diem>= 8.5        -> A
+	8.5>diem>= 7.5    -> B
+	7.5>diem>= 6      -> C
+	6>diem>= 4    	  -> D
+	4>diem    	  -> F
+Câu 3: Nhập vào điểm của n sinh viên(biểu diễn bằng mảng 1 chiều gồm n phần tử thực và áp dụng thang điểm của bài 2 in ra điểm chữ của n sinh viên)
+	input: 5 7 10 8 3
+	output:D C A  B F
+Câu 4: Viết chương trình C để người dùng nhập vào 3 số nguyên và tìm số lớn nhất trong 3 số đó (không dùng mảng)
+Câu 5: Viết chương trình C để tính cước điện thoại bàn cho một hộ gia đình với các thông số như sau:
+
+- 600 đồng cho mỗi phút gọi của 50 phút đầu tiên.
+- 400 đồng cho mỗi phút gọi của 150 phút tiếp theo.
+- 200 đồng cho bất kỳ phút gọi nào sau 200 phút đầu tiên.
+
+Yêu cầu nhập số tiền trong tài khoản điện thoại và in ra số phút gọi tối đa cho một cuộc gọi
+
+Câu 6: s(x, n) = 2021x + x + (x^2)/2! + (x^3)/3! + ..... + (x^n)/n!
+yêu cầu sử dụng vòng lặp for, while để giải theo 2 cách
+ 
+Câu 7: nhập vào một số nguyên từ bàn phím cho tới khi số đó là số chẵn thì in ra màn hình (số lẻ bắt nhập lại)

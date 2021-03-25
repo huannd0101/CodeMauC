@@ -1,0 +1,18 @@
+Bài 1: Nhập và in ra màn hình mảng gồm n phần tử nguyên (4 <= n <= 30)
+	In ra tổng các phần tử trong mảng
+	In ra trung bình cộng của các phần tử trong mảng
+	In ra giá trị max và min trong mảng
+	In ra phần tử lớn thứ 2 trong mảng
+	In ra tất cả các số lẻ trong mảng và tổng các số lẻ trong mảng
+	In ra màn hình những phần tử chia hết cho 3 và 5
+
+Bài 2: Nhập và in ra màn hình mảng gồm n phần tử thực (4 <= n <= 30)
+	Sắp xếp mảng tăng dần và in ra màn hình
+	Sắp xếp mảng giảm dần và in ra màn hình
+	Sắp xếp tăng dần theo thứ tự (chẵn-lẻ-số 0) và in ra màn hình
+	Sắp xếp tăng dần theo thứ tự (chẵn-số 0-lẻ) và in ra màn hình
+	Sắp xếp tăng dần theo thứ tự (lẻ-số 0-chẵn) và in ra màn hình
+	
+	
+
+		
